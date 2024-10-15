@@ -24,4 +24,6 @@ The program is entirely written in python 3.12.
 Please report any bugs you encounter!
 
 When opened, you will see the following screen and input the required fields and press the green button "Calculate" to figure out your extrapolated WACE marks.
+
+
 ![alt text](https://github.com/tiancado/tiancados-wace-marks-calculator/blob/main/WACE%20mark%20calculator%20input%20screen.jpg?raw=true)
