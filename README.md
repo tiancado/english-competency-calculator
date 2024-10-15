@@ -1,3 +1,24 @@
-An English competency calculator geared towards one specific curriculum and syllabus,
-so if you stumbled upon this:
-This is not for you!
+A program that uses averaged data from 2016-2023 to calculate the user's _extrapolated_ WACE marks.
+
+The program is no way affiliated with the government bodies and public companies responsible for marking and calculating the WACE, and does not claim to be anyway accurate or correct.
+
+The program currently only works for Windows computers, not for the Apple Mac.
+
+The program is only limited to a select number of ATAR courses without a practical examination component, which are
+- Accounting and Finance,
+- Biology,
+- Chemistry,
+- Computer Science,
+- English
+- Human Biology,
+- English Literature,
+- Mathematics Applications,
+- Mathematics Methods,
+- Mathematics Specialists,
+- Physics,
+- Politics and Law,
+- Psychology, and
+- Religion and Life
+
+The program is entirely written in python 3.12.
+Please report any bugs you encounter!
