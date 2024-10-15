@@ -1,3 +1,5 @@
+# The first prototype
+
 # haven't programmed in forevuh but here we go :^)
 import sys
 import time
